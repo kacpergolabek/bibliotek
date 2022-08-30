@@ -1,0 +1,2 @@
+1. Book{name=potop, minAge=12, author='adam'}
+2. Game{name=gta, minAge=18, maxAge=20}
